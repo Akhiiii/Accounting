@@ -1,0 +1,68 @@
+/* .logo {
+    height: 82px;
+    background: #002140;
+    margin-left: 0px;
+
+  } */
+.accounting{
+  /* Accounting */
+position: absolute;
+width: 123px;
+height: 29px;
+left: 89px;
+top: 16px;
+display: flex;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 30px;
+/* 
+color: #FFFFFF; */
+
+
+}
+.Accounting{
+  /* Accounting */
+position: absolute;
+width: 123px;
+height: 29px;
+left: 89px;
+top: 16px;
+display: flex;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 30px;
+
+/* color: #FFFFFF; */
+
+
+}
+
+.Logo {
+  width: 250px;
+  height: 62px;
+  /* background: #0e213f;  */
+  margin: 0px 0px 0px -60px;
+  float: left;
+}
+
+.handle{
+  position: absolute;
+  top: 240px;
+  /* background: @primary-color; */
+  width: 48px;
+  height: 48px;
+  right: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 0;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 4px 0 0 4px;
+}
