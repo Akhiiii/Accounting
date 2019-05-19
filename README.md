@@ -2,8 +2,8 @@
 
 
 
-# Customize Theme with Accounting web
-A example to show customize theaming,hot loading with dva, redux based flow solution and antd UI 
+# Customised Accounting  Application
+Accounting Application that manages all accounting task  with Customize settings like dynamic theming, hot loading ,and view mode etc.a example to show customize theaming,hot loading with dva, redux based flow solution and antd UI 
 
 ## Installation
 
